@@ -1,0 +1,25 @@
+Welcome ! :))))
+
+
+instruction for setup:
+download python
+download pip
+pip install selenium
+
+
+
+how to automate on windows:
+
+1. type in "task schedular" in start menu
+2. In top left click action -> create task
+3. Name/Describe the task whatever u want (ex. Attendance Sign In)
+4. In the top, click on actions tab and in the bottom left hit "new"
+5. copy the file path for main.exe into the program/script box and hit ok in bottom right
+6. go to "triggers" tab right next to actions tab and hit "new"
+7. Schedule it daily at a time like 7:50 (forms usually go out at around 6:45); task wont work if computer isnt on
+    -  if you want to sleep instead of having to turn on computer u gonna have to have computer on sleep
+        and schedule a task to wake up computer so it can do this task as well
+        (follow this link to help, its easy! https://www.howtogeek.com/119028/how-to-make-your-pc-wake-from-sleep-automatically/)
+        
+8. Hit ok and ok again in bottom right cause u donezo!
+9. have a happy life! no depression!
