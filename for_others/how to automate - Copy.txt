@@ -1,5 +1,6 @@
 Welcome ! :))))
 
+make sure downloads are in path!
 
 instruction for setup:
 download python

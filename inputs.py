@@ -2,9 +2,9 @@
 #input details here and you are good to go!
 
 
-email = "hihihihihihih"
+email = ""
 password = ""
 
-firstName = "Edwin"
-lastName = "Luo"
+firstName = ""
+lastName = ""
 gradeLevel = 12
